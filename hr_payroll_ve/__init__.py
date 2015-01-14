@@ -20,7 +20,7 @@
 #
 ##############################################################################
 
-import hr_payroll
+import hr_payroll_ve
 import report
 import wizard
 
